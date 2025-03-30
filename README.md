@@ -7,7 +7,7 @@
 - [RStudio Project: Time Series Forecasting](https://github.com/GhazaliPolicyAnalyst/Algorithms-Practice)
 - [STATA Project: Instrumental Variable Estimation](https://github.com/GhazaliPolicyAnalyst/Algorithms-Practice)
   
-<h2> Trade Policy and Global Food Governance :</h2>
+<h2> Trade Policy and Global Food Governance </h2>
 
 - [WTO Trade Negotiation Simulation](https://github.com/GhazaliPolicyAnalyst/Algorithms-Practice)
 - [Research Paper: Sustainable Public Procurement](https://github.com/GhazaliPolicyAnalyst/Algorithms-Practice)
